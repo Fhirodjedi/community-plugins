@@ -7,6 +7,6 @@
 3. Wait for a response from me
 
 ### Plugin guidelines
-The plugin must be written in javascript
-No malicious plugins
-Don't steal code from others
+The plugin must be written in javascript        
+No malicious plugins             
+Don't steal code from others               
