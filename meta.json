@@ -1,8 +1,7 @@
-
-{
+[{
     "name": "test name",
     "version": "1.0.0",
     "description": "test description",
     "author": "test author",
     "path": "test/test.js"
-}
+}]
