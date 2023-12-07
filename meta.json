@@ -1,7 +1,22 @@
-[{
-    "name": "test name",
-    "version": "1.0.0",
-    "description": "test description",
-    "author": "test author",
-    "path": "test/test.js"
-}]
+[   {
+        "name": "test name",
+        "version": "1.0.0",
+        "description": "test description",
+        "author": "test author",
+        "path": "test/test.js"
+    },
+    {
+        "name": "test name 2",
+        "version": "1.0.0",
+        "description": "test description 2",
+        "author": "test author 2",
+        "path": "test/test2.js"
+    },
+    {
+        "name": "test name 3",
+        "version": "1.0.0",
+        "description": "test description 3",
+        "author": "test author 3",
+        "path": "test/test3.js"
+    }
+]
