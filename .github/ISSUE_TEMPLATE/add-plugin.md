@@ -9,4 +9,4 @@ assignees: Penguinify
 
 - Plugin Name
 - Plugin Author
-- Link to plugin repository
+- Link to plugin repository or file to code.
